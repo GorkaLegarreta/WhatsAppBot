@@ -1,6 +1,7 @@
 # **WhatsAppBot**
 Whatsapp Bot for the home automation
-This is a colaboratory project developed by two students Gorka Legarreta and Benjamin Tagwercher for the subject Internet of Things with the proffesor Diego Casado.
+This is a colaboratory project developed by two students Gorka Legarreta and Benjamin Tagwercher for the subject Application development for the
+Internet of Things with the proffesor Diego Casado Mansilla.
 ## **Description**
 A device which is able to communicate through whatsapp with the user and can control different types of actors. E.g. you can send your device a message via whatsapp when it has to turn on the light. If you are on vacation and you don't have anyone who is looking for the house, you can turn on the lights so people don´t know that no one is at home. That way you can prevent potential thieves from breaking into the house. 
 Later there is the possibility to add sensors like a gas sensor, so the whatsapp bot can keep track of if everything is alright with your house.
